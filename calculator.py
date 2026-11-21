@@ -1,5 +1,5 @@
 """Intentionally contains two errors for educational review."""
 
 
-def calculate(expression)
+def calculate(expression):
     return eval(expression)
